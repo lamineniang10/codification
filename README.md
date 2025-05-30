@@ -32,5 +32,5 @@ Les bibliothèques utlisées incluent **python3**,  **pandas** pour le traitemen
 ## Contributions
 Les contributions sont les bienvenues pour améliorer la codification, signaler des erreurs ou proposer des extensions.
 ## Contact
-Email: [lamineniang20@gmail.com](mailto:lamineniang20@gmail.com)
+Email: lamineniang20[at]gmail[dot]com
 
