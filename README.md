@@ -9,8 +9,8 @@ Le projet vise à attribuer un code unique à chaque commune du Sénégal (hors 
 ## Principe de la codification
 La codification vise à attribuer un identifiant unique à chaque des communes du Sénégal, à l'exception des communes de ville(Dakar, Pikine, Guédiawaye, Rufisque Keur Massar et Thies), qui ne sont pas concernées par ce système. Le principe repose sur une hiérarchie administrative, où chaque niveau hérite du code du niveau supérieur. Chaque niveau est représenté par un ou plusieurs caractères numériques, et l'ensemble du code est précédé du préfixe **"SN"**. La structure du code est la suivante:
 * **Deux** caractères pour la région
-* **un** caractère pour le département
-* **un** caractère pour l'arrondissement
+* **un** caractère pour le département.
+* **un** caractère pour l'arrondissement.
 * **un** caratère pour la commune
 
 Les codes des régions et des département sont attribués en fonction de leur ordre de création administratif, assurant une logique historique et cohérante dans l'identifiant.
