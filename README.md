@@ -26,7 +26,7 @@ Example
 Ainsi, chaque commune reçoit un identifiant unique, normé et traçable
 
 ## Bibliothèques utilisées
-Les bibliothèques utlisées incluent **python3**,  **pandas** pour le traitement des données tabulaires, **geopandas** pour la manipulation des données géospatiales et **folium** pour la visualisation des communes sur une carte interactive basée sur `OpenStreetMap`
+Les outils utlisées incluent **Python**,  **Pandas** pour le traitement des données tabulaires, **Geopandas** pour la manipulation des données géospatiales et **Folium** pour la visualisation des communes sur une carte interactive basée sur `OpenStreetMap`
 .
 ## Résultat
 ➡️ Tous les détails sont disponibles dans le notebook `.ipynb` et les images dans le dossier `docs`.
