@@ -29,7 +29,7 @@ Ainsi, chaque commune reçoit un identifiant unique, normé et traçable
 Les outils utlisées incluent **Python**,  **Pandas** pour le traitement des données tabulaires, **Geopandas** pour la manipulation des données géospatiales et **Folium** pour la visualisation des communes sur une carte interactive basée sur `OpenStreetMap`
 .
 ## Résultat
-➡️ Tous les détails sont disponibles dans le notebook `.ipynb` et les images dans le dossier `docs`.
+➡️ [Tous les détails sont disponibles dans le notebook](https://github.com/lamineniang10/codification/blob/main/geocodage_communes_sn.ipynb) et les images dans le dossier `docs`.
 ## Contributions
 Les contributions sont les bienvenues pour améliorer la codification, signaler des erreurs ou proposer des extensions.
 ## Contact
